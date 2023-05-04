@@ -1,0 +1,52 @@
+{
+  "chefs": [
+    {
+      "id": "1",
+      "image": "https://img.freepik.com/free-photo/studio-portrait-positive-cook-male-holds-eggplant_613910-9899.jpg?w=740&t=st=1683138895~exp=1683139495~hmac=f142891fb2dc14b3f23e04fc2ea75baf7a4fa592f9a456fb33c8bdddc4d8fe8e",
+      "name": "Somkit Saengkaew",
+      "years_of_experience": 5,
+      "num_recipes": 100,
+      "likes": 500
+    },
+    {
+      "id": "2",
+      "image": "https://img.freepik.com/free-photo/brunette-chef-female-cook-table-preparing-vegan-meals_613910-9791.jpg?w=1380&t=st=1683133531~exp=1683134131~hmac=f54f4387f9f343a7c872a442cd190e4388413b4bc5baa321779925c724e6e555",
+      "name": "Duangporn Songvisava",
+      "years_of_experience": 2,
+      "num_recipes": 50,
+      "likes": 250
+    },
+    {
+      "id": "3",
+      "image": "https://img.freepik.com/free-photo/head-cook-throwing-fresh-chopped-herbs-pan-improve-taste-meal-while-professional-kitchen-master-chef-seasoning-dish-prepared-food-contest-held-fine-dining-restaurant_482257-40137.jpg?w=740&t=st=1683133590~exp=1683134190~hmac=2c4602417cd4a999bba41917c35317c1433f5c972389e4c12f65834c21650d7e",
+      "name": "Ian Kittichai",
+      "years_of_experience": 8,
+      "num_recipes": 200,
+      "likes": 1000
+    },
+    {
+      "id": "4",
+      "image": "https://img.freepik.com/free-photo/front-view-young-female-cook-apron-chopping-tomatoes_140725-105107.jpg?w=1380&t=st=1683133643~exp=1683134243~hmac=0cb90ddfc9b48b431c8ebb9fc47aac26b2e6a105cc6fd38163c41b63f5fc11d9",
+      "name": "David Thompson",
+      "years_of_experience": 3,
+      "num_recipes": 75,
+      "likes": 300
+    },
+    {
+      "id": "5",
+      "image": "https://img.freepik.com/free-photo/male-chef-kitchen-cooking-dish-frying-pan_23-2149646204.jpg?w=740&t=st=1683133692~exp=1683134292~hmac=ec867f23208d103fe9f46031f0c7a1431fbba16afabdb2b1be76d0aa18320e23",
+      "name": "Nooror Somany Steppe",
+      "years_of_experience": 10,
+      "num_recipes": 300,
+      "likes": 1500
+    },
+    {
+      "id": "6",
+      "image": "https://img.freepik.com/free-photo/happy-male-chef-cook-restaurant-kitchen_496169-81.jpg?w=1380&t=st=1683137649~exp=1683138249~hmac=b5a67f83ea4b11c867effe63fba771b8e7bbda1533ebd4b0761d5a319f42ec18",
+      "name": "Sandy T. Sheppard",
+      "years_of_experience": 6,
+      "num_recipes": 150,
+      "likes": 700
+    }
+  ]
+}
